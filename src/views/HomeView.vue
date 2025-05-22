@@ -3,6 +3,6 @@
 
 <template>
   <main>
-    <p class="text-green-300">Hello fellas!</p>
+    <a class="text-gray-800">Hello fellas!</a>
   </main>
 </template>
